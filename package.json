@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "node scripts/convert-webp.mjs && vite build",
+        "build": "node convert-webp.mjs && vite build",
     "preview": "vite preview"
   },
   "keywords": [],
